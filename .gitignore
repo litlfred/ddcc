@@ -5,6 +5,8 @@ template
 output
 fsh-generated
 input-cache
+uml-generated
+fml-generated
 
 # Don't commit this because it's so large #
 ###########################################
