@@ -1,0 +1,19 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "dade26fd-82a5-4624-8b81-0b7dc13367f9-161",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/dade26fd-82a5-4624-8b81-0b7dc13367f9-161",
+  "name" : "UnionImmunizationRecommendationReasonCodesAndImmunizationRecommendationReasonCodes",
+  "title" : "Union of Immunization Recommendation Reason Codes And Immunization Recommendation Reason Codes",
+  "status" : "draft",
+  "date" : "2026-11-19T08:05:09+00:00",
+  "compose" : {
+    "include" : [{
+      "concept" : [{
+        "code" : "77176002"
+      },
+      {
+        "code" : "77386006"
+      }]
+    }]
+  }
+}

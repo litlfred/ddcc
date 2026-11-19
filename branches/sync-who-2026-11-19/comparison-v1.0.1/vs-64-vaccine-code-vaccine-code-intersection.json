@@ -1,0 +1,9 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "4f5ec21b-7250-4f6d-b7ab-8e9369dd2a5a-156",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/4f5ec21b-7250-4f6d-b7ab-8e9369dd2a5a-156",
+  "name" : "IntersectionVaccineAdministeredValueSetAndVaccineAdministeredValueSet",
+  "title" : "Intersection of Vaccine Administered Value Set And Vaccine Administered Value Set",
+  "status" : "active",
+  "date" : "2026-11-19T07:58:28+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "dade26fd-82a5-4624-8b81-0b7dc13367f9-69",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/dade26fd-82a5-4624-8b81-0b7dc13367f9-69",
+  "name" : "IntersectionFHIRDocumentTypeCodesAndFHIRDocumentTypeCodes",
+  "title" : "Intersection of FHIR Document Type Codes And FHIR Document Type Codes",
+  "status" : "draft",
+  "date" : "2026-11-19T08:05:09+00:00",
+  "compose" : {
+    "include" : [{
+      "filter" : [{
+        "property" : "SCALE_TYP",
+        "op" : "=",
+        "value" : "Doc"
+      }]
+    }]
+  }
+}

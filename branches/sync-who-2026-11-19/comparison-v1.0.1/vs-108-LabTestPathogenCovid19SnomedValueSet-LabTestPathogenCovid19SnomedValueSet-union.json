@@ -1,0 +1,31 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "4f5ec21b-7250-4f6d-b7ab-8e9369dd2a5a-260",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/4f5ec21b-7250-4f6d-b7ab-8e9369dd2a5a-260",
+  "name" : "UnionLabTestPathogenCovid19SnomedValueSetAndLabTestPathogenCovid19SnomedValueSet",
+  "title" : "Union of Lab Test - Pathogen - COVID-19 - SNOMED CT And Lab Test - Pathogen - COVID-19 - SNOMED CT",
+  "status" : "active",
+  "date" : "2026-11-19T07:58:28+00:00",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "http://unstats.un.org/unsd/methods/m49/m49.htm",
+      "code" : "001"
+    }]
+  }],
+  "compose" : {
+    "include" : [{
+      "concept" : [{
+        "code" : "407479009",
+        "display" : "Influenza A virus (organism)"
+      },
+      {
+        "code" : "407480007",
+        "display" : "Influenza B virus (organism)"
+      },
+      {
+        "code" : "840533007",
+        "display" : "Severe acute respiratory syndrome coronavirus 2 (organism)"
+      }]
+    }]
+  }
+}

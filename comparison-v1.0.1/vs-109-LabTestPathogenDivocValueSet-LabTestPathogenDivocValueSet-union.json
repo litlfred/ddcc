@@ -1,0 +1,27 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "dade26fd-82a5-4624-8b81-0b7dc13367f9-263",
+  "url" : "http://hl7.org/fhir/comparison/ValueSet/dade26fd-82a5-4624-8b81-0b7dc13367f9-263",
+  "name" : "UnionLabTestPathogenDivocValueSetAndLabTestPathogenDivocValueSet",
+  "title" : "Union of Lab Test - Pathogen - DIVOC And Lab Test - Pathogen - DIVOC",
+  "status" : "active",
+  "date" : "2026-11-19T08:05:09+00:00",
+  "jurisdiction" : [{
+    "coding" : [{
+      "system" : "http://unstats.un.org/unsd/methods/m49/m49.htm",
+      "code" : "001"
+    }]
+  }],
+  "compose" : {
+    "include" : [{
+      "concept" : [{
+        "code" : "COVID-19",
+        "display" : "Concerns the detection of SARS-CoV-2 infection."
+      },
+      {
+        "code" : "covid-19",
+        "display" : "Concerns the detection of SARS-CoV-2 infection."
+      }]
+    }]
+  }
+}
