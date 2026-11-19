@@ -4,17 +4,17 @@ This is the WHO Digital Documentation of COVID-19 Certificates: Vaccination Stat
 <br> </br>
 ###
 ### Publication
-This ImplementationGuide is published in the following locations:
+This ImplementationGuide is published in the following locations: 
 
 
-Continuous Build:  __https://github.com/WorldHealthOrganization/ddcc__  
+Continuous Build:  __https://github.com/WorldHealthOrganization/ddcc__   
 Canonical / permanent URL: __https://smart.who.int/ddcc__  
 
 <br> </br>
 
-### Issues
+### Issues 
 Issues and change requests are managed here:  
 
 Issues:  __https://github.com/WorldHealthOrganization/ddcc/issues__  
     or the Kanban board: __https://github.com/WorldHealthOrganization/ddcc/projects/1__
- 
+
